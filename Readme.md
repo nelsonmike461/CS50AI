@@ -1,4 +1,4 @@
-# CS50’s Introduction to Computer Science
+# CS50’s Introduction to Computer Science with Python
 
 [![Certificate](./static/CS50AI.png)](https://certificates.cs50.io/2c6b6ef1-3ba3-4bb5-99ff-14937a2d56f4.png?size=A4)
 
